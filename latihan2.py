@@ -7,8 +7,8 @@ NIM     : 2500551
 
 def menu_login_konfirmasi():
     # Data login yang benar sesuai soal
-    username = "Daspro2023"
-    password = "Latihan"
+    username = "Ahnaf"
+    password = "Kazuki"
     
     #Jumlah maksimal percobaan password
     chance = 3
